@@ -1,5 +1,5 @@
 # Human-machine Collaborative (H-M-C) DL Development Code
-Here, we show the code proposed by this study for the comparison studies (pure machine annotation) and classic model training
+Here, we show the code proposed by this study for the comparison studies (classic model training and pure machine annotation)
 
 ## CODE overview
 + CODE 1: code for classic model training in the model training comparison test
