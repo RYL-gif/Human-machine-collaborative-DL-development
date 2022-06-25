@@ -14,20 +14,22 @@ Here, we show the code proposed by this study for the comparison studies (classi
 + #### Project structure
 ```
 -CODE 1
-  └-Project 1 (ex: blood cell, DME, DR, etc.)
-    └-project
-      └-logs
-      └-results
-      └-train.py
-      └-predict.py
-    └-training dataset
-      └-class 1
-      └-class 2
-      └-...
-    └-testing dataset
-    └-val
-  └-Project 2
-  └-...
+  └ Project 1 (ex: Blood cell, DME, RDR, etc.)
+    └ project
+      └ logs
+      └ results
+      └ train.py
+      └ predict.py
+    └ training dataset
+      └ class 1
+        └ 001.jpg
+        └ ...
+      └ class 2
+      └ ...
+    └ testing dataset
+    └ val
+  └ Project 2
+  └ ...
 ```
 
 ### Dataset
