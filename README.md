@@ -16,18 +16,9 @@ Here, we show the code proposed by this study for the comparison studies (classi
 -CODE 1
   └ Project 1 (ex: Blood cell, DME, RDR, etc.)
     └ project
-      └ logs
-      └ results
+	  └ validation_generator.py
       └ train.py
       └ predict.py
-    └ training dataset
-      └ class 1
-        └ 001.jpg
-        └ ...
-      └ class 2
-      └ ...
-    └ testing dataset
-    └ val
   └ Project 2
   └ ...
 ```
