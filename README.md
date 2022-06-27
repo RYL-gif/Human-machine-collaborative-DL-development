@@ -57,9 +57,6 @@ For the pure machine method on the classification datasets, a series of unsuperv
 #### Project structure
 ```
 -CODE 2
-  └  checkpoints
-    └ resnet50.h5
-	└ stl10_encoder.h5
   └  autoencoder.py
   └  resnet50.py 
 ```
