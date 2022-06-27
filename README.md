@@ -71,6 +71,7 @@ cd /CODE2/
 python autoencoder.py # encoding using denoising autoencoder and then clustering for pure machine annotation
 or
 python resnet50.py  # encoding using resnet50 and then clustering for pure machine annotation
+```
 
 ### License
 These codes are provided for review only. For researchers to get access to the codes, you need sign the [license](LicenseforHMC.pdf) and send it to: linht5@mail.sysu.edu.cn
